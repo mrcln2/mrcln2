@@ -111,7 +111,7 @@ I specialize in designing modern, accessible digital layouts — including <b>da
       <p>🔗 · <a href="CourtBook.jpg">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="[INSERT IMAGE URL HERE]" alt="Project 2" width="100%"/>
+      <img src="CourtBook.jpg" alt="Project 2" width="100%"/>
       <h3>CourtBook.</h3>
       <p style="text-align:justify;">CourtBook. System is an intuitive scheduling platform that streamlines the booking process for sports courts or facilities by connecting users directly with administrators. The platform allows users to view real-time availability and request specific time slots on their preferred courts, while giving administrators total control to approve or decline bookings via a centralized management dashboard. Designed to eliminate scheduling conflicts and maximize court utilization, CourtBook System leverages a modern full-stack architecture and user-centered design to deliver a seamless, responsive experience for both players and facility managers.</p>
       <p>
