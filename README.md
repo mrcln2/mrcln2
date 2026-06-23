@@ -101,25 +101,25 @@ I specialize in designing modern, accessible digital layouts — including <b>da
   <tr>
     <td width="50%" valign="top">
       <img src="GreenGrow.jpg" alt="Project 1" width="100%"/>
-      <h3>[Project Title Placeholder]</h3>
-      <p>Brief overview placeholder describing the problem solved, target users, and the design methodology / tech stack used to ship it.</p>
+      <h3>GreenGrow</h3>
+      <p style="text-align:justify;">GreenGrow is a digital platform designed to combat environmental decline by allowing users to financially support global tree-planting initiatives while educating them on the critical consequences of deforestation. The platform bridges the gap between awareness and action, featuring a seamless donation system alongside a curated news feed that highlights real-world ecological crises caused by tree loss. Built for eco-conscious individuals and environmental advocates, GreenGrow utilizes a modern full-stack architecture (React, Node.js, and MongoDB) and a user-centered design methodology to deliver an impactful, transparent, and highly engaging user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <p>🔗 <a href="[INSERT LINK HERE]">Live Prototype</a> · <a href="[INSERT LINK HERE]">Source Code</a></p>
+      <p>🔗 · <a href="[INSERT LINK HERE]">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
       <img src="[INSERT IMAGE URL HERE]" alt="Project 2" width="100%"/>
-      <h3>[Project Title Placeholder]</h3>
-      <p>Brief overview placeholder describing the problem solved, target users, and the design methodology / tech stack used to ship it.</p>
+      <h3>CourtBook.</h3>
+      <p style="text-align:justify;">CourtBook. System is an intuitive scheduling platform that streamlines the booking process for sports courts or facilities by connecting users directly with administrators. The platform allows users to view real-time availability and request specific time slots on their preferred courts, while giving administrators total control to approve or decline bookings via a centralized management dashboard. Designed to eliminate scheduling conflicts and maximize court utilization, CourtBook System leverages a modern full-stack architecture and user-centered design to deliver a seamless, responsive experience for both players and facility managers.</p>
       <p>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <p>🔗 <a href="[INSERT LINK HERE]">Live Prototype</a> · <a href="[INSERT LINK HERE]">Source Code</a></p>
+      <p>🔗 · <a href="[INSERT LINK HERE]">Source Code</a></p>
     </td>
   </tr>
 </table>
