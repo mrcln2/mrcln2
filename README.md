@@ -100,7 +100,7 @@ I specialize in designing modern, accessible digital layouts — including <b>da
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="[INSERT IMAGE URL HERE]" alt="Project 1" width="100%"/>
+      <img src="GreenGrow.jpg" alt="Project 1" width="100%"/>
       <h3>[Project Title Placeholder]</h3>
       <p>Brief overview placeholder describing the problem solved, target users, and the design methodology / tech stack used to ship it.</p>
       <p>
