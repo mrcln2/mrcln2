@@ -100,7 +100,7 @@ I specialize in designing modern, accessible digital layouts — including <b>da
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="GreenGrow.jpg" alt="Project 1" width="100%"/>
+      <img src="GrowGreen.jpg" alt="Project 1" width="100%"/>
       <h3>GreenGrow</h3>
       <p style="text-align:justify;">GreenGrow is a digital platform designed to combat environmental decline by allowing users to financially support global tree-planting initiatives while educating them on the critical consequences of deforestation. The platform bridges the gap between awareness and action, featuring a seamless donation system alongside a curated news feed that highlights real-world ecological crises caused by tree loss. Built for eco-conscious individuals and environmental advocates, GreenGrow utilizes a modern full-stack architecture (React, Node.js, and MongoDB) and a user-centered design methodology to deliver an impactful, transparent, and highly engaging user experience.</p>
       <p>
